@@ -1,0 +1,39 @@
+Create a Magic: The Gathering card using the card info below.
+
+Image 1 (Thranduil, the Elvenking) is attached as the sole reference image — it is a STYLE reference ONLY. Match its layout, typography, printing texture, aging, and painting technique exactly. Do NOT take this card's colors, mana symbol shapes, subject matter, pose, or composition from Image 1 — this is a completely different character. Every color, icon, and piece of text for THIS card is specified only in the text below; none of it comes from the reference image.
+
+FORMAT: Vertical portrait-orientation card, taller than it is wide, matching Image 1's exact aspect ratio and proportions (standard trading-card proportions, roughly 2.5:3.5 width:height). Do NOT generate a horizontal or landscape image, and do not generate a wide/letterbox canvas — the output must be a tall rectangle, cropped exactly like Image 1.
+
+CARD_NAME: Legolas, Master Archer
+MANA_COST: {1}{G}{G}
+TYPE_LINE: Legendary Creature — Elf Archer
+RULES_TEXT: Whenever you cast a spell that targets Legolas, put a +1/+1 counter on Legolas. Whenever you cast a spell that targets a creature you don't control, Legolas deals damage equal to its power to up to one target creature.
+POWER/TOUGHNESS: 1/4
+
+COLOR LOCK (applies everywhere on this card): This card is mono-colored: green only (plus generic mana, if any). Every colored mana symbol anywhere on this card must be the green icon — never introduce white, blue, black, red, even for a repeated pip that already appears elsewhere on the card.
+
+STYLE: Loose 1970s gouache paperback fantasy-novel cover art, in the style of period Ballantine/Del Rey fantasy paperback covers — visible loaded brushstrokes, soft feathered edges, no hard vector outlines, no digital gloss, no rim lighting, no airbrush smoothness. Low contrast, faded, chalky pigment, matte finish. The main figure sits in nearly the same value range as the background field and is painted thinly enough that the field color shows through — it must not read as a crisp cutout popping off the background. The entire image reads as one soft, muted, unified wash, as if sun-faded over fifty years.
+
+TYPOGRAPHY:
+- Top-left: a small plain dark circular emblem with a minimal abstract mark, no letters, above a thin-ruled box with three centered stacked small-cap lines: HIGH / FANTASY / CLASSIC.
+- Below that, left-aligned, small bold serif: "Z-1", then "75¢", then the mana cost display (below).
+- Top center: "Legendary Creature — Elf Archer" in letterspaced small caps.
+- Below it: "J.R.R. TOLKIEN" in large bold black serif all-caps, centered.
+- Below that: the card title in large blackletter-flavored serif, centered, color dark forest green, no quotation marks, broken across exactly two centered stacked lines exactly as given:
+Legolas,
+Master Archer
+- Lower third, printed directly over the art, plain serif, off-white: "Whenever you cast a spell that targets Legolas, put a +1/+1 counter on Legolas. Whenever you cast a spell that targets a creature you don't control, Legolas deals damage equal to its power to up to one target creature."
+- Bottom right, large bold serif: "1/4".
+- Bottom edge: a thin dark solid credit strip meeting the background field as one clean straight line — no outline, seam, or soft transition. Small pale type inside: "R 0251" at left with "HOB • EN" beneath, a small brush icon and "J.R.R. Tolkien"; at right, "©MEE / ™ & © 2026 Wizards of the Coast". A small oval holographic-foil seal centered just above the strip.
+
+MANA COST DISPLAY (top-left, below "75¢", this is the ONLY stack of pip-style icons anywhere on the card — do not draw any second column, stamp, or additional set of circular icons anywhere else): render the cost as a vertical stack of these flat icon glyphs, in this exact order, plain and iconographic, no shading or gradients, weight-matched to the adjacent small type — use these exact icons and colors, not whatever mana symbols appear in Image 1: First pip (left to right): a numeral 1 inside a plain circle. Second pip (left to right): the Magic: The Gathering green mana symbol — a stylized tree, exactly as it appears on a Forest card. Third pip (left to right): the Magic: The Gathering green mana symbol — a stylized tree, exactly as it appears on a Forest card. This must look identical to the previous pip — same color, same icon, do not vary it. Where two pips in this list share the same color, draw them as truly identical icons — same color, same shape, same weight — never substitute a different color for a repeated pip just for variety.
+
+FIGURE: Legolas, Master Archer, centered and large in frame, cropped at mid-thigh — no legs or boots visible. Head just below the title block. Depict Legolas, Master Archer with their established, canonical appearance from Tolkien's work and its illustrations — do not invent an unrelated look. Standing fully upright, spine straight, shoulders squared — not crouching, kneeling, or leaning. From roughly the chest down the figure progressively dissolves into the flat background field, losing detail and saturation until the bottom of the frame is nearly flat color.
+
+BACKGROUND: A flat field of muted olive sage filling the entire card — no environment, architecture, or horizon. Textured color field with visible paper grain and loose painterly variation, even ambient light. A faint oversized ornamental motif fitting the character's culture, ghosted into the field behind the figure, barely visible, a shade darker than the field.
+
+AGING: Heavy irregular period wear: white speckled paper loss at edges and corners, foxing spots, slightly off-register printing with faint color fringing at high-contrast edges, faded inks. An uneven extra band of scuffing and small paper chips creeping inward along the left and right edges only. Do not add any crease, fold line, or bend across the card — wear should be limited to edges, corners, and surface speckling/foxing only.
+
+No modern Magic card border, no text box, no digital UI elements — full-bleed painted art with type printed directly over it. Add no text beyond what is specified above.
+
+FINAL CHECK before rendering: One dark ink only for all small type and the price code. Exactly one stack of mana cost pips — no second/duplicate row or column of circular icons anywhere else on the card. Title broken across exactly two lines as given. Figure upright, cropped at mid-thigh, dissolving into the field toward the bottom.

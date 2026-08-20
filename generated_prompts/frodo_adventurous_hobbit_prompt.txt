@@ -1,0 +1,45 @@
+Create a Magic: The Gathering card using the card info below.
+
+Image 1 (Thranduil, the Elvenking) is attached as the sole reference image — it is a STYLE reference ONLY. Match its layout, typography, printing texture, aging, and painting technique exactly. Do NOT take this card's colors, mana symbol shapes, subject matter, pose, or composition from Image 1 — this is a completely different character. Every color, icon, and piece of text for THIS card is specified only in the text below; none of it comes from the reference image.
+
+FORMAT: Vertical portrait-orientation card, taller than it is wide, matching Image 1's exact aspect ratio and proportions (standard trading-card proportions, roughly 2.5:3.5 width:height). Do NOT generate a horizontal or landscape image, and do not generate a wide/letterbox canvas — the output must be a tall rectangle, cropped exactly like Image 1.
+
+CARD_NAME: Frodo, Adventurous Hobbit
+MANA_COST: {W}{B}
+TYPE_LINE: Legendary Creature — Halfling Scout
+RULES_TEXT: Partner with Sam, Loyal Attendant Vigilance Whenever Frodo attacks, if you gained 3 or more life this turn, the Ring tempts you. Then if Frodo is your Ring-bearer and the Ring has tempted you two or more times this game, draw a card.
+POWER/TOUGHNESS: 1/3
+
+COLOR LOCK (applies everywhere on this card): Do not draw any colored mana symbol shape outside the exact pip breakdown listed in MANA COST DISPLAY below. This governs SHAPE selection only — every pip is still rendered as hollow black line art with a transparent interior, never filled with color.
+
+STYLE: Loose 1970s gouache paperback fantasy-novel cover art, in the style of period Ballantine/Del Rey fantasy paperback covers — visible loaded brushstrokes, soft feathered edges, no hard vector outlines, no digital gloss, no rim lighting, no airbrush smoothness. Low contrast, faded, chalky pigment, matte finish. The main figure sits in nearly the same value range as the background field and is painted thinly enough that the field color shows through — it must not read as a crisp cutout popping off the background. The entire image reads as one soft, muted, unified wash, as if sun-faded over fifty years.
+
+TYPOGRAPHY:
+- Top-left: a small plain dark circular emblem with a minimal abstract mark, no letters, above a thin-ruled box with three centered stacked small-cap lines: HIGH / FANTASY / CLASSIC.
+- Below that, left-aligned, small bold serif: "Z-1", then "75¢", then the mana cost display (below).
+- Top center: "Legendary Creature — Halfling Scout" in letterspaced small caps.
+- Below it: "J.R.R. TOLKIEN" in large bold black serif all-caps, centered.
+- Below that: the card title in large blackletter-flavored serif, centered, color warm brown-black, no quotation marks, broken across exactly two centered stacked lines exactly as given:
+Frodo,
+Adventurous Hobbit
+- Lower third, printed directly over the art, plain serif, off-white: "Partner with Sam, Loyal Attendant Vigilance Whenever Frodo attacks, if you gained 3 or more life this turn, the Ring tempts you. Then if Frodo is your Ring-bearer and the Ring has tempted you two or more times this game, draw a card."
+- Bottom right, large bold serif: "1/3".
+- Bottom edge: a thin dark solid credit strip meeting the background field as one clean straight line — no outline, seam, or soft transition. Small pale type inside: "M 0260" at left with "HOB • EN" beneath, a small brush icon and "J.R.R. Tolkien"; at right, "©MEE / ™ & © 2026 Wizards of the Coast". A small oval holographic-foil seal centered just above the strip.
+
+MANA COST DISPLAY: Render the cost as a single vertical stack of small circular pips directly beneath "75¢" — this is the ONLY stack of pip-style icons anywhere on the card; do not draw any second column, stamp, or additional set of circular icons anywhere else.
+Line Art Only: Every mana pip must be strictly black line art with zero fill.
+Transparent Interiors: The inside of every circle must remain completely transparent.
+Monochrome Stamp Aesthetic: Treat the whole pip stack as a single-ink line-art rubber stamp printed onto the art, using the same ink as the "75¢" text above it. Ignore any color normally associated with any mana symbol.
+Icon shapes only from this list (not whatever mana symbols appear in Image 1) — Pip Breakdown (Exactly 2 pips in a single vertical column, top to bottom):
+1. Hollow black ring with an outlined silhouette of the Magic: The Gathering plains mana symbol (sun).
+2. Hollow black ring with an outlined silhouette of the Magic: The Gathering swamp mana symbol (skull).
+
+FIGURE: Frodo, Adventurous Hobbit, centered and large in frame, cropped at mid-thigh — no legs or boots visible. Head just below the title block. Depict Frodo, Adventurous Hobbit with their established, canonical appearance from Tolkien's work and its illustrations — do not invent an unrelated look. Standing fully upright, spine straight, shoulders squared — not crouching, kneeling, or leaning. From roughly the chest down the figure progressively dissolves into the flat background field, losing detail and saturation until the bottom of the frame is nearly flat color.
+
+BACKGROUND: A flat field of a blended muted tone combining dusty faded parchment tan and charcoal ash grey filling the entire card — no environment, architecture, or horizon. Textured color field with visible paper grain and loose painterly variation, even ambient light. A faint oversized ornamental motif fitting the character's culture, ghosted into the field behind the figure, barely visible, a shade darker than the field.
+
+AGING: Heavy irregular period wear: white speckled paper loss at edges and corners, foxing spots, slightly off-register printing with faint color fringing at high-contrast edges, faded inks. An uneven extra band of scuffing and small paper chips creeping inward along the left and right edges only. Do not add any crease, fold line, or bend across the card — wear should be limited to edges, corners, and surface speckling/foxing only.
+
+No modern Magic card border, no text box, no digital UI elements — full-bleed painted art with type printed directly over it. Add no text beyond what is specified above.
+
+FINAL CHECK before rendering: every mana pip has a completely transparent interior showing the card's background field — no solid black, grey, white, or colored fill inside any pip circle, even though real Magic mana symbols are colored. One dark ink only for all small type and the price code. Exactly one stack of mana cost pips — no second/duplicate row or column of circular icons anywhere else on the card. Title broken across exactly two lines as given. Figure upright, cropped at mid-thigh, dissolving into the field toward the bottom.
