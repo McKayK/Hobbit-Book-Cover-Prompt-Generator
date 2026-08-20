@@ -1,28 +1,3 @@
-# Paste your card's info below, replacing this example, then save this
-# file and re-run the script.
-#
-# Format:
-#   Line 1: card name, optionally followed by the mana cost, e.g.
-#           "Legolas, Master Archer {1}{G}{G}"
-#           (the cost can also be on its own line right after the name —
-#           both work)
-#   Next:   type line, e.g. "Legendary Creature — Elf Archer"
-#   Next:   one or more lines of rules text
-#   Last:   power/toughness (e.g. "1/4") or "Loyalty: 5" — omit for cards
-#           that have neither
-#
-# Optional: add a line anywhere below starting with "VISUAL:" to give a
-# short visual description of the character for the artwork. Skip it to
-# let the model use the character's established appearance.
-#
-# Optional: add a line anywhere below starting with "RARITY:" (common,
-# uncommon, rare, mythic, or just the single letter C/U/R/M) to set the
-# collector-number letter to the card's real rarity. Skip it to default
-# to Rare.
-#
-# Lines starting with # are ignored.
-
-
 Sauron, the Dark Lord
 {3}{U}{B}{R}
 Legendary Creature — Avatar Horror
